@@ -9,6 +9,6 @@ These instructions will enable you to set Xmas tree board to light up/sync to mu
 3) You can test to see if everything works by using:
   - sudo python /home/pi/lightshowpi/py/sychronized_lights.py --file=/home/pi/lightshowpi/music/sample/evilwezil_carol-of-the-bells.mp3
   
-Sample video: https://twitter.com/majoras_flask/status/946461299189407744
+Sample video: https://twitter.com/mportatoes/status/946461299189407744
   
 There are still some kits available as of the time of this edit: https://thepihut.com/products/3d-xmas-tree-for-raspberry-pi?variant=38284925265
